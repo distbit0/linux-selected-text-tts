@@ -1,0 +1,1 @@
+mimic3 --voice en_US/cmu-arctic_low#5  "Example Text^C> out.wav; sonic -s 3.3 out.wav out1.wav; play out1.wav
